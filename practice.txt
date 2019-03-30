@@ -1,2 +1,3 @@
+aaaaaaaaaa
 Gitの操作を練習するためのファイルです。
 commit / push / pull などの練習に自由に利用してください。
