@@ -1,3 +1,4 @@
 巫女（みこ）（グループルビ） in "tag", 結, Msコンテスト, centerStage.json
 巫女（みこ）（グループルビ） in "description", 結, Msコンテスト, centerStage.json
 扮（ふん）して（モノルビ） in "description", THE ODORIB@ M@STER, ODORIBA, centerStage.json
+十三絃（げん）箏（そう）（各々モノルビ） in "description", 箏坂46, gym.json
