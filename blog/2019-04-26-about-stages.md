@@ -1,10 +1,10 @@
 ---
 
-title: ステージ課について
+title: ステージ課【ステージ紹介編】
 author: ステージ課長
 images: [
-  2019-04-26-about-stages/1.jpg,
-  2019-04-26-about-stages/2.jpg,
+  2019-04-26-about-stages/1.jpga,
+  2019-04-26-about-stages/2.jpga,
   2019-04-26-about-stages/3.jpg
 ]
 thumbnail: 2019-04-26-about-stages/2.jpg
