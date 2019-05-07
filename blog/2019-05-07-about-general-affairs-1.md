@@ -1,6 +1,6 @@
 ---
 
-title: 庶務課【印刷班編】
+title: 庶務課【前編】
 author: 庶務課長
 images: []
 thumbnail: /default/thumbnail.jpg
